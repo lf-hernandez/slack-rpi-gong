@@ -1,0 +1,5 @@
+colorzero==2.0
+gpiozero==1.6.2
+python-dotenv==0.18.0
+slack-bolt==1.6.1
+slack-sdk==3.7.0
